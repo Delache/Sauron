@@ -1,0 +1,24 @@
+.row{
+ 	height: 50px; 
+ 	margin:1px;	
+}
+.no-gutters {
+    margin-right: 0px;
+    margin-left: 0px
+ }
+
+.grey{
+	background-color: DarkSlateGray;	
+}
+
+.orange{
+	background-color: orange;	
+}
+
+.yellow{
+	background-color: yellow;	
+}
+
+.black{
+	background-color: black;	
+}
